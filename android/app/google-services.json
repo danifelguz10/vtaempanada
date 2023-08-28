@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991021742623",
+    "project_id": "vtaempanada-abb4a",
+    "storage_bucket": "vtaempanada-abb4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991021742623:android:a0c159ed4b990e91aa332a",
+        "android_client_info": {
+          "package_name": "com.example.vtaempanada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991021742623-sfegmm9eedd99fodnvkg255f3i6m88e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31arMnEmmr1IvSPll7WFWzjr8bcR9EO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991021742623-sfegmm9eedd99fodnvkg255f3i6m88e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
